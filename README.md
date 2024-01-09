@@ -23,7 +23,6 @@
          <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://chuidiang.org/images/f/f3/Logo_php.png" title="Git" **alt="Git" width="40" height="40"/>
-<img src="[https://e7.pngegg.com/pngimages/515/909/png-clipart-microsoft-sql-server-computer-servers-database-microsoft-microsoft-sql-server-server-computer.png](https://typescript-eslint.io/assets/files/logo-62ab572de114d03f1ec685d989f92cd6.svg)" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
 
