@@ -17,7 +17,7 @@
     <div>
         <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src=" https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src=" https://ayudawp.com/wp-content/uploads/2017/01/javascript-logo-escudo.png" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://cdn.icon-icons.com/icons2/2248/PNG/512/bootstrap_icon_135870.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
         <img src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://docs.angular.lat/assets/images/logos/angularjs/AngularJS-Shield.svg" title="Angular" **alt="Angular" width="40" height="40"/>
