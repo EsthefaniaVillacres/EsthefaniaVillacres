@@ -30,7 +30,7 @@
 
 ### 📊 Mis estadísticas :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Esthefaniavillacres&theme=dark&hide_border=true&locale=es&mode=dayly&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EsthefaniaVillacres&theme=dark&hide_border=true&locale=es&mode=dayly&card_width=500)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EsthefaniaVillacres&show_icons=true&theme=radical)
 
