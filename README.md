@@ -3,7 +3,7 @@
     <h1 align="center">Hola 👋, Soy Esthefania</h1>
     <h3 align="center">Apasionada desarrolladora web  originaria de Ecuador, especializada en software backend pero con una fuerte inclinación hacia el frontend. Combino habilidades técnicas con creatividad para crear experiencias web nuevas.</h3>
 </div>
----
+
 
 ### 👨‍💻 Sobre mí :
 
