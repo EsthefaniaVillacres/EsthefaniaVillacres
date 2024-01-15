@@ -6,6 +6,7 @@
 
 
 ### 👨‍💻 Sobre mí :
+-Desarrollo back-end, desarrollo front-end, freelance
 
 - 📫 ¿Cómo contactarme? **esthefaniavillacres20@gmail.com**
 
