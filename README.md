@@ -36,3 +36,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EsthefaniaVillacres&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esthefaniavillacres&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
+### 📊 Experiencia :
+Prácticas laborales en: Empresarial Diaz y Bonilla
+💻 Empresa de consultoría empresarial que presta servicios de alta calidad, dedicada principalmente a la investigación y desarrollo corporativo, implementando sistemas tecnológicos, administrativos, financieros, inteligencia de negocios, comprometidos con la satisfacción del cliente y el desarrollo del país.
