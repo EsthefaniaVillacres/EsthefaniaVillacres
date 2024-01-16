@@ -27,27 +27,20 @@
       </div>
 </div>
 
----
 
-### 📊 Mis estadísticas :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EsthefaniaVillacres&theme=dark&hide_border=true&locale=es&mode=dayly&card_width=500)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EsthefaniaVillacres&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esthefaniavillacres&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
----
- ### 📊 Educación :
+----
+<div>
+     <h3>📊 Educación :</h3> 
  <h3>Ingeniera de Software</h3>
 <div>
 💻 UNIVERSIDAD TÉCNICA DE AMBATO
 <p>
    Abarca desde el diseño y desarrollo de sistemas informáticos hasta la implementación de soluciones innovadoras para abordar desafíos complejos. 
 </p>
-
 </div>
 <div>
- 📊  Experiencia :
+ <h3>📊  Experiencia :</h3>
+     
 <div>
 <h4>Prácticas laborales en: Empresarial Diaz y Bonilla</h4>
 💻 Empresa de consultoría empresarial que presta servicios de alta calidad, dedicada principalmente a la investigación y desarrollo corporativo, implementando sistemas tecnológicos, administrativos, financieros, inteligencia de negocios, comprometidos con la satisfacción del cliente y el desarrollo del país.
@@ -58,7 +51,7 @@
               </ul>
 </div>
 <div>
-     📊 CURSOS Y CONGRESOS :
+      <h3> 📊 CURSOS Y CONGRESOS :</h3>
     <h4>V CONGRESO INTERNACIONAL DE CIENCIA DE LA COMPUTACION, ELECTRONICA E INGENIERÍA INDUSTRIAL</h4>
     💻 UNIVERSIDAD TÉCNICA DE AMBATO
     <ol>
@@ -82,4 +75,16 @@
   <li>Funciones de Activación</li>
    <li>Aprendizaje Profundo (Deep Learning)</li>      
 </ol>
+</div>
+</div>
+
+---
+<div>
+<h3>📊 Mis estadísticas : </h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EsthefaniaVillacres&theme=dark&hide_border=true&locale=es&mode=dayly&card_width=500)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EsthefaniaVillacres&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esthefaniavillacres&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
