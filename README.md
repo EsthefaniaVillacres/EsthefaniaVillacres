@@ -38,9 +38,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esthefaniavillacres&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
  ### 📊 Educación :
+ <h3>Ingeniera de Software</h3>
 <div>
 💻 UNIVERSIDAD TÉCNICA DE AMBATO
-Abarca desde el diseño y desarrollo de sistemas informáticos hasta la implementación de soluciones innovadoras para abordar desafíos complejos.
+<p>
+   Abarca desde el diseño y desarrollo de sistemas informáticos hasta la implementación de soluciones innovadoras para abordar desafíos complejos. 
+</p>
 
 </div>
 <div>
