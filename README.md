@@ -37,6 +37,46 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esthefaniavillacres&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
-### 📊 Experiencia :
-Prácticas laborales en: Empresarial Diaz y Bonilla
+ ### 📊 Educación :
+<div>
+💻 UNIVERSIDAD TÉCNICA DE AMBATO
+Abarca desde el diseño y desarrollo de sistemas informáticos hasta la implementación de soluciones innovadoras para abordar desafíos complejos.
+
+</div>
+<div>
+ 📊  Experiencia :
+<div>
+<h4>Prácticas laborales en: Empresarial Diaz y Bonilla</h4>
 💻 Empresa de consultoría empresarial que presta servicios de alta calidad, dedicada principalmente a la investigación y desarrollo corporativo, implementando sistemas tecnológicos, administrativos, financieros, inteligencia de negocios, comprometidos con la satisfacción del cliente y el desarrollo del país.
+              <ul>
+                <li>Gestión de archivos XML</li>
+                <li>Desarrollo en PHP </li>
+                <li>Desarrollo en framework CodeIgniter </li>
+              </ul>
+</div>
+<div>
+     📊 CURSOS Y CONGRESOS :
+    <h4>V CONGRESO INTERNACIONAL DE CIENCIA DE LA COMPUTACION, ELECTRONICA E INGENIERÍA INDUSTRIAL</h4>
+    💻 UNIVERSIDAD TÉCNICA DE AMBATO
+    <ol>
+  <li>Presentación de Investigaciones Innovadoras</li>
+  <li>Red de Networking Global</li>
+  <li>Actualización sobre Tendencias y Desafíos Emergentes</li>
+</ol>
+    <h4>Curso Etical Hacking</h4>
+    💻Cisco- Universidad Técnica de Ambato
+    <ol>
+  <li>Reconocimiento (Reconnaissance)</li>
+  <li>Escaneo de Vulnerabilidades (Scanning)</li>
+  <li>Explotación (Exploitation)</li>
+   <li>Análisis de Tráfico (Packet Analysis)</li>      
+</ol>
+        <h4>CURSO REDES NEURONALES</h4>
+    💻Cisco- Universidad Técnica de Ambato
+    <ol>
+  <li>Neuronas y Capas</li>
+  <li>Aprendizaje Supervisado</li>
+  <li>Funciones de Activación</li>
+   <li>Aprendizaje Profundo (Deep Learning)</li>      
+</ol>
+</div>
