@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://www.vipnet360.com/wp-content/uploads/2021/06/La-importancia-de-contar-con-un-desarrollador-o-programador-para-Wordpress_Vipnet360-1000x500.png" width="200" />
     <h1 align="center">Hola 👋, Soy Esthefania</h1>
-    <h3 align="center">Apasionada desarrolladora web  originaria de Ecuador, especializada en software backend pero con una fuerte inclinación hacia el frontend. Combino habilidades técnicas con creatividad para crear experiencias web nuevas.</h3>
+    <h3 align="center">Desarrolladora web, especializada en desarrollo backend, con la capacidad de integrar y complementar proyectos con habilidades en frontend. Combino experiencia técnica y creatividad para desarrollar soluciones web innovadoras y eficientes.</h3>
 </div>
 
 
