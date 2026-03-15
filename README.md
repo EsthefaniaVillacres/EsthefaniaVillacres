@@ -76,12 +76,25 @@
    <li>Aprendizaje Profundo (Deep Learning)</li>      
 </ol>
             <h4>Python (nivel medio – avanzado)</h4>
-    💻Uneversidad Estatal de Milagro
+    💻Universidad Estatal de Milagro
     <ol>
-  <li>Neuronas y Capas</li>
   <li>Manejo de estructuras de datos y programación modular en Python.</li>
   <li>Implementación de programación orientada a objetos y automatización de scripts</li>
    <li>Consumo de APIs, manejo de archivos y control de excepcione</li>      
+</ol>
+                <h4> Inteligencia Artificial / Chatbots</h4>
+    💻Universidad Estatal de Milagro
+    <ol>
+  <li>Fundamentos de inteligencia artificial y aprendizaje automático.</li>
+  <li>Desarrollo e integración de chatbots con IA generativa.</li>
+  <li>Aplicación de prompt engineering y análisis de datos con enfoque ético.</li>    
+</ol>
+                    <h4> Cloud Computing (Google Cloud Platform)</h4>
+    💻Universidad Estatal de Milagro
+    <ol>
+  <li>Fundamentos de Cloud Computing y modelos IaaS, PaaS y SaaS</li>
+  <li>Gestión de recursos, control de accesos (IAM) y seguridad de datos en GCP.</li>
+  <li>Creación y administración básica de máquinas virtuales en la nube.</li>    
 </ol>
 </div>
 </div>
