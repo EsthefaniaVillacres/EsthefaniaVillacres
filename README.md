@@ -75,6 +75,14 @@
   <li>Funciones de Activación</li>
    <li>Aprendizaje Profundo (Deep Learning)</li>      
 </ol>
+            <h4>Python (nivel medio – avanzado)</h4>
+    💻Uneversidad Estatal de Milagro
+    <ol>
+  <li>Neuronas y Capas</li>
+  <li>Manejo de estructuras de datos y programación modular en Python.</li>
+  <li>Implementación de programación orientada a objetos y automatización de scripts</li>
+   <li>Consumo de APIs, manejo de archivos y control de excepcione</li>      
+</ol>
 </div>
 </div>
 
